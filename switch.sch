@@ -16,7 +16,7 @@ device=HEADER8
 T 50700 48200 5 10 1 1 0 0 1
 refdes=J1
 T 50100 46500 5 10 1 0 0 0 1
-footprint=HEADER8_2
+footprint=big_header
 }
 C 45400 45100 1 90 0 resistor-2.sym
 {
