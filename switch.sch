@@ -23,7 +23,7 @@ C 45400 45100 1 90 0 resistor-2.sym
 T 45050 45500 5 10 0 0 90 0 1
 device=RESISTOR
 T 45100 45300 5 10 1 1 90 0 1
-footprint=ACY1000
+footprint=ACY400
 T 45400 45100 5 10 1 0 0 0 1
 value=10k
 T 45400 45100 5 10 1 0 0 0 1
@@ -34,11 +34,11 @@ C 44700 45100 1 90 0 capacitor-1.sym
 T 44000 45300 5 10 0 0 90 0 1
 device=CAPACITOR
 T 44200 45300 5 10 1 1 90 0 1
-refdes=C2
+footprint=RCY300
 T 43800 45300 5 10 0 0 90 0 1
 symversion=0.1
 T 44700 45100 5 10 1 0 0 0 1
-footprint=ACY1000
+footprint=RCY300
 T 44700 45100 5 10 1 0 0 0 1
 value=100pF
 }
@@ -53,7 +53,7 @@ symversion=0.1
 T 41100 47800 5 10 1 0 0 0 1
 footprint=ACY1000
 T 41100 47800 5 10 1 0 0 0 1
-value=10uF
+footprint=RCY300P
 }
 C 41100 47900 1 0 0 vcc-1.sym
 C 41500 46400 1 180 0 vss-1.sym
